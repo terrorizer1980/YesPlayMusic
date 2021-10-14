@@ -4815,10 +4815,10 @@ electron-updater@^4.3.5:
     lodash.isequal "^4.5.0"
     semver "^7.3.4"
 
-electron@^13.0.1:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-13.0.1.tgz#7dd3666f0f966ab83a1f9868d84add2e6205d43a"
-  integrity sha512-ds1cf0m46nStil0jbM2r9W/p+Kprdq22+2MikIUqEu69eGl1c86IinQVrpmJ9bR4RshDSF4j3uD32a0bsHDMnQ==
+electron@^13.3.0:
+  version "13.5.2"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-13.5.2.tgz#5c5826e58a5e12bb5ca8047b789d07b45260ecbc"
+  integrity sha512-CPakwDpy5m8dL0383F5uJboQcVtn9bT/+6/wdDKo8LuTUO9aER1TF41v7feZgZW2c+UwoGPWa814ElSQ3qta2A==
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^14.6.2"
