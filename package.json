@@ -49,7 +49,7 @@
     "express": "^4.17.1",
     "md5": "^2.3.0",
     "music-metadata": "^7.5.3",
-    "express-fileupload": "^1.2.0",
+    "express-fileupload": "^1.4.0",
     "express-http-proxy": "^1.6.2",
     "extract-zip": "^2.0.1",
     "howler": "^2.2.1",
