@@ -27,7 +27,7 @@
   "main": "background.js",
   "dependencies": {
     "@revincx/unblockneteasemusic": "^0.25.7",
-    "axios": "^0.21.0",
+    "axios": "^1.6.3",
     "change-case": "^4.1.2",
     "cli-color": "^2.0.0",
     "color": "^3.1.3",
